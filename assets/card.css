@@ -68,11 +68,10 @@ body .bottom_bar{
     z-index: 1:
 }
 
-.eagle_video{
-    position: absolute;
-    top: 66.1%;
-    left: 7.7%;
-    width: 8.8%;
+.eagle_video {
+    width: 80px;
+    height: auto;
+    max-width: 20vw; /* skalowanie względem szerokości ekranu */
 }
 
 .data_title{
