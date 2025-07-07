@@ -71,7 +71,6 @@ body .bottom_bar{
 .eagle_video {
     width: 18%;
     height: auto;
-    max-width: 20vw; /* skalowanie względem szerokości ekranu */
 }
 
 .data_title{
